@@ -1,0 +1,10 @@
+base_system_image = "ubuntu-20-04-x64"
+region = "nyc3"
+size = "512mb"
+domain = "brandonrozek.com"
+subdomain = "minetest"
+
+# Secrets
+do_token = "DO-TOKEN-HERE"
+key_name = "SSH-NAME-ON-DO-HERE"
+
